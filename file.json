@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "material": "Plastic Bottles",
+      "recyclingInfo": "Rinse and recycle in designated plastic bin"
+    },
+    {
+      "id": 2,
+      "material": "Glass Bottles",
+      "recyclingInfo": "Rinse and recycle in designated glass bin"
+    },
+    {
+      "id": 3,
+      "material": "Paper",
+      "recyclingInfo": "Separate from other materials and recycle in paper bin"
+    }
+
+  ]
+  
